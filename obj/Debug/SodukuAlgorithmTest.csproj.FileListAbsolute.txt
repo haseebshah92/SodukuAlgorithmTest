@@ -1,0 +1,6 @@
+c:\users\haseeb.shah.aksa\documents\visual studio 2015\Projects\ExeliaCyprusTest\SodukuAlgorithmTest\bin\Debug\SodukuAlgorithmTest.exe.config
+c:\users\haseeb.shah.aksa\documents\visual studio 2015\Projects\ExeliaCyprusTest\SodukuAlgorithmTest\bin\Debug\SodukuAlgorithmTest.exe
+c:\users\haseeb.shah.aksa\documents\visual studio 2015\Projects\ExeliaCyprusTest\SodukuAlgorithmTest\bin\Debug\SodukuAlgorithmTest.pdb
+c:\users\haseeb.shah.aksa\documents\visual studio 2015\Projects\ExeliaCyprusTest\SodukuAlgorithmTest\obj\Debug\SodukuAlgorithmTest.csprojResolveAssemblyReference.cache
+c:\users\haseeb.shah.aksa\documents\visual studio 2015\Projects\ExeliaCyprusTest\SodukuAlgorithmTest\obj\Debug\SodukuAlgorithmTest.exe
+c:\users\haseeb.shah.aksa\documents\visual studio 2015\Projects\ExeliaCyprusTest\SodukuAlgorithmTest\obj\Debug\SodukuAlgorithmTest.pdb
